@@ -15,8 +15,14 @@
 
 
 -------------------------------------------------
-### rabbitMQ
+### RabbitMQ
 #### [rabbitMQ教程（三）一篇文章看懂rabbitMQ](https://www.cnblogs.com/tohxyblog/p/7256343.html)
+
+
+
+-------------------------------------------------
+### Redis
+#### [Windows下安装Redis服务](https://www.cnblogs.com/jaign/articles/7920588.html)
 
 
 
