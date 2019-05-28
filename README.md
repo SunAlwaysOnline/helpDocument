@@ -4,8 +4,8 @@
 
 -------------------------------------------------
 ### Git操作入门
-#### [IDEA中对Git的常规操作(合并,提交,新建分支,更新)](https://blog.csdn.net/weixin_38399962/article/details/79712379)
-
+#### [IDEA中对Git的常规操作(合并,提交,新建分支,更新)]()
+<a href="https://blog.csdn.net/weixin_38399962/article/details/79712379" target="_blank">
 
 
 -------------------------------------------------
