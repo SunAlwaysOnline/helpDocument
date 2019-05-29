@@ -11,7 +11,8 @@
 -------------------------------------------------
 ### Log4j
 #### [最详细的Log4J使用教程](https://blog.csdn.net/u013870094/article/details/79518028)
-
+#### [SpringBoot2.x整合Log4j](https://blog.csdn.net/caoshangfeidie000/article/details/82731715)
+#### [log4j生成有日期的日志文件名](https://www.cnblogs.com/exmyth/p/5885703.html)
 
 
 -------------------------------------------------
