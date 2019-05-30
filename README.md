@@ -5,6 +5,8 @@
 -------------------------------------------------
 ### Consul
 #### [Consul的安装与启动](https://blog.csdn.net/coder_501/article/details/79352911)
+#### [Consul3-使用consul作为配置中心](https://blog.csdn.net/j903829182/article/details/81050507)
+#### [Consul微服务的配置中心体验篇](https://baijiahao.baidu.com/s?id=1594974075748778032&wfr=spider&for=pc)
 
 
 -------------------------------------------------
