@@ -1,7 +1,8 @@
 
 ## helpDocument
-用以记录日常学习中发现的比较好的各类技术的入门文档
+用以记录日常学习中发现的比较好的各类技术的入门文档、各类架构的思想等。
 
+## 技术篇
 -------------------------------------------------
 ### Consul
 #### [Consul的安装与启动](https://blog.csdn.net/coder_501/article/details/79352911)
@@ -39,6 +40,13 @@
 ### Redis
 #### [Windows下安装Redis服务](https://www.cnblogs.com/jaign/articles/7920588.html)
 #### [SpringBoot中注入RedisTemplate实例异常解决](https://blog.csdn.net/zhaoheng314/article/details/81564166)
+
+
+-------------------------------------------------
+## 架构篇
+-------------------------------------------------
+### 高并发
+#### [高并发的解决方案](https://blog.csdn.net/sanyaoxu_2/article/details/78992113)
 
 
 -------------------------------------------------
