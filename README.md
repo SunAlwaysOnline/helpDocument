@@ -16,8 +16,6 @@
 #### [Docker windows安装及遇到的坑爹问题](https://blog.csdn.net/lx_yoyo/article/details/72963171)
 #### [docker ps报错bash: ps: command not found](https://blog.csdn.net/weixin_37878255/article/details/83347130)
 #### [Docker网络以及访问已运行的Nginx](https://blog.csdn.net/lililuni/article/details/83269793)
-#### [最详细的Log4J使用教程](https://blog.csdn.net/u013870094/article/details/79518028)
-
 
 
 
