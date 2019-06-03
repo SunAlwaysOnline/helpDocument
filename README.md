@@ -14,6 +14,8 @@
 ### Docker
 #### [在windows下运行docker的问题【Error getting IP address: ***】](https://blog.csdn.net/qq_40963664/article/details/80270991)
 #### [Docker windows安装及遇到的坑爹问题](https://blog.csdn.net/lx_yoyo/article/details/72963171)
+#### [docker ps报错bash: ps: command not found](https://blog.csdn.net/weixin_37878255/article/details/83347130)
+
 
 
 
