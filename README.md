@@ -27,6 +27,11 @@
 
 
 -------------------------------------------------
+### Jenkins
+#### [使用jekins自动构建部署java maven项目](https://www.cnblogs.com/hdwang/p/6081994.html)
+
+
+-------------------------------------------------
 ### Log4j
 #### [最详细的Log4J使用教程](https://blog.csdn.net/u013870094/article/details/79518028)
 #### [SpringBoot2.x整合Log4j](https://blog.csdn.net/caoshangfeidie000/article/details/82731715)
