@@ -75,7 +75,10 @@
 
 -------------------------------------------------
 ### 数据库设计
+#### [想用数据库“读写分离” 请先明白“读写分离”解决什么问题](https://baijiahao.baidu.com/s?id=1614304400276051465&wfr=spider&for=pc)
+#### [浅谈高性能数据库集群——读写分离](https://www.jianshu.com/p/eba38b1ff43c?utm_source=coffeephp.com)
 #### [10亿级订单系统分库分表设计思路](https://blog.csdn.net/jokemqc/article/details/82834748)
 #### [数据库垂直拆分 水平拆分](https://blog.csdn.net/jerome_s/article/details/52492616)
-#### [想用数据库“读写分离” 请先明白“读写分离”解决什么问题](https://baijiahao.baidu.com/s?id=1614304400276051465&wfr=spider&for=pc)
+
+
 -------------------------------------------------
