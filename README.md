@@ -63,7 +63,7 @@
 -------------------------------------------------
 ### SpringBoot
 #### [将springboot项目发布到独立的tomcat中运行](https://www.cnblogs.com/renshengruozhiruchujian/p/7799521.html)
-
+#### [springboot + 拦截器 + 注解 实现自定义权限验证](https://www.cnblogs.com/tianlong/p/10310372.html)
 
 -------------------------------------------------
 ### Tomcat
