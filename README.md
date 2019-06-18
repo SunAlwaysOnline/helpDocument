@@ -37,6 +37,11 @@
 #### [SpringBoot2.x整合Log4j](https://blog.csdn.net/caoshangfeidie000/article/details/82731715)
 #### [log4j生成有日期的日志文件名](https://www.cnblogs.com/exmyth/p/5885703.html)
 
+-------------------------------------------------
+### MyBatis/MyBatis-plus
+#### [Mybatis中的模糊查询](https://www.cnblogs.com/dushan/p/4766954.html)
+#### [springboot + mybatis plus实现多表联查分页3.X版本](https://blog.csdn.net/m0_37034294/article/details/82935436) 
+
 
 -------------------------------------------------
 ### Nginx
