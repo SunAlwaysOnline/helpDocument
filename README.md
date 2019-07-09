@@ -44,6 +44,13 @@
 #### [springboot + mybatis plus实现多表联查分页3.X版本](https://blog.csdn.net/m0_37034294/article/details/82935436) 
 
 
+
+-------------------------------------------------
+### Eureka
+#### [SpringCloud-Eureka-Client 启动后自动停止](https://www.jianshu.com/p/aaebead2130e)
+
+
+
 -------------------------------------------------
 ### Nginx
 #### [Nginx 相关介绍(Nginx是什么?能干嘛?)](https://www.cnblogs.com/wcwnina/p/8728391.html)
