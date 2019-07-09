@@ -20,6 +20,13 @@
 #### [Docker 命令大全](https://www.runoob.com/docker/docker-command-manual.html)
 #### [使用Docker运行MariaDB并连接使用](http://www.ptbird.cn/docker-mariadb.html)
 
+-------------------------------------------------
+### Eureka
+#### [SpringCloud-Eureka-Client 启动后自动停止](https://www.jianshu.com/p/aaebead2130e)
+
+
+
+
 
 -------------------------------------------------
 ### Git
@@ -39,16 +46,14 @@
 #### [log4j生成有日期的日志文件名](https://www.cnblogs.com/exmyth/p/5885703.html)
 
 -------------------------------------------------
-### MyBatis/MyBatis-plus
-#### [Mybatis中的模糊查询](https://www.cnblogs.com/dushan/p/4766954.html)
-#### [springboot + mybatis plus实现多表联查分页3.X版本](https://blog.csdn.net/m0_37034294/article/details/82935436) 
-
+### Maven
+#### [Maven中-DskipTests和-Dmaven.test.skip=true的区别](https://blog.csdn.net/u013452335/article/details/83416743)
 
 
 -------------------------------------------------
-### Eureka
-#### [SpringCloud-Eureka-Client 启动后自动停止](https://www.jianshu.com/p/aaebead2130e)
-
+### MyBatis/MyBatis-plus
+#### [Mybatis中的模糊查询](https://www.cnblogs.com/dushan/p/4766954.html)
+#### [springboot + mybatis plus实现多表联查分页3.X版本](https://blog.csdn.net/m0_37034294/article/details/82935436) 
 
 
 -------------------------------------------------
