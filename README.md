@@ -9,6 +9,7 @@
 #### [服务发现 - consul 的介绍、部署和使用](https://blog.csdn.net/buxiaoxia/article/details/69788114)
 #### [Consul3-使用consul作为配置中心](https://blog.csdn.net/j903829182/article/details/81050507)
 #### [Consul微服务的配置中心体验篇](https://baijiahao.baidu.com/s?id=1594974075748778032&wfr=spider&for=pc)
+#### [用 Consul 来做服务注册与服务发现](https://segmentfault.com/a/1190000018731395?utm_source=tag-newest)
 
 -------------------------------------------------
 ### Docker
