@@ -72,6 +72,7 @@
 -------------------------------------------------
 ### RabbitMQ
 #### [rabbitMQ教程（三）一篇文章看懂rabbitMQ](https://www.cnblogs.com/tohxyblog/p/7256343.html)
+#### [RabbitMQ入门-从HelloWorld开始](https://www.jianshu.com/p/1ea6eef25cce)
 
 
 
