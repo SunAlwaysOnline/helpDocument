@@ -36,6 +36,12 @@
 
 
 -------------------------------------------------
+### Hystrix
+#### [Hystrix系列之入门](https://www.jianshu.com/p/9cf7dd341bad)
+
+
+
+-------------------------------------------------
 ### Jenkins
 #### [使用jekins自动构建部署java maven项目](https://www.cnblogs.com/hdwang/p/6081994.html)
 
