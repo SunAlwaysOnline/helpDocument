@@ -76,6 +76,7 @@
 -------------------------------------------------
 ### Optional
 #### [JAVA8之妙用Optional解决判断Null为空的问题](http://www.ibloger.net/article/3209.html)
+#### [Java8学习笔记（六）--Optional](https://www.cnblogs.com/yw0219/p/7354938.html)
 
 
 -------------------------------------------------
