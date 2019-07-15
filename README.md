@@ -47,6 +47,11 @@
 
 
 -------------------------------------------------
+### Lambda
+#### [JAVA8 Lambda 使用实例](https://blog.csdn.net/qq_37176126/article/details/81273195)
+
+
+-------------------------------------------------
 ### Log4j
 #### [最详细的Log4J使用教程](https://blog.csdn.net/u013870094/article/details/79518028)
 #### [SpringBoot2.x整合Log4j](https://blog.csdn.net/caoshangfeidie000/article/details/82731715)
