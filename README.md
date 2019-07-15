@@ -97,6 +97,10 @@
 #### [springboot + 拦截器 + 注解 实现自定义权限验证](https://www.cnblogs.com/tianlong/p/10310372.html)
 
 -------------------------------------------------
+### Stream
+#### [Stream API详解](https://www.cnblogs.com/yw0219/p/7337030.html)
+
+-------------------------------------------------
 ### Tomcat
 #### [在一台电脑上运行两个或两个以上的tomcat](https://www.cnblogs.com/xiaobai1226/p/7662392.html)
 
