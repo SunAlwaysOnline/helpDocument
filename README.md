@@ -9,6 +9,13 @@
 #### [为什么我墙裂建议大家使用枚举来实现单例](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650121482&idx=1&sn=e5b86797244d8879bbe9a69fb72641b5&chksm=f36bb82bc41c313d739f485383d3a868a79020c995ee86daef026a589f4782916c42a8d3f6c7&mpshare=1&scene=1&srcid=0614J9OX5zkoAnHiPYX2sHiH#rd)
 
 
+
+-------------------------------------------------
+### 双亲委派
+#### [为何采用双亲委派机制](https://www.jianshu.com/p/2459989a09e7)
+
+
+
 -------------------------------------------------
 ### ThreadLocal
 #### [深入理解线程局部变量：ThreadLocal](https://blog.51cto.com/2179425/2082743)
