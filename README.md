@@ -61,6 +61,7 @@
 
 -------------------------------------------------
 ### Git
+#### [廖雪峰的官方网站-Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 #### [Git完全入门指南](https://www.jianshu.com/p/a093364e74d0)
 #### [IDEA中对Git的常规操作(合并,提交,新建分支,更新)](https://blog.csdn.net/weixin_38399962/article/details/79712379)
 
