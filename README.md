@@ -82,6 +82,8 @@
 -------------------------------------------------
 ### Kubernetes
 #### [k8s入门](https://yq.aliyun.com/articles/640832)
+#### [K8S 入门-简书](https://www.jianshu.com/p/9d52a32f648d)
+
 
 
 
